@@ -4,7 +4,7 @@
 
 Computer Science Student • Python Developer
 
-Building projects to improve my understanding of software development, object-oriented programming, and backend systems.
+Building projects to strengthen my understanding of software development, object-oriented programming, and backend systems.
 
 </div>
 
@@ -43,13 +43,6 @@ A command-line banking application built with Python and OOP principles.
 * Design Patterns
 * Backend Development
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="165" />
-</p>
-
 ## Goals
 
 * Build a strong software development portfolio
@@ -60,5 +53,5 @@ A command-line banking application built with Python and OOP principles.
 ---
 
 <p align="center">
-  <i>Always learning, always building.</i>
+  <i>Currently building projects and improving my software development skills.</i>
 </p>
