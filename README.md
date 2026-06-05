@@ -14,25 +14,12 @@ Building projects to strengthen my understanding of software development, object
 
 I am a second-year Computer Science student who enjoys building practical projects and exploring different areas of software development. Most of my work is focused on Python, where I apply concepts such as object-oriented programming, data structures, and version control through hands-on projects.
 
-## Featured Project
 
-### Banking Management System
-
-A command-line banking application built with Python and OOP principles.
-
-**Features**
-
-* User authentication
-* Deposits and withdrawals
-* Fund transfers
-* Transaction history
-* Account management
-* Data persistence
 
 ## Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,java,dotnet" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,dotnet" />
 </p>
 
 ## Currently Learning
