@@ -12,7 +12,7 @@ Building projects to strengthen my understanding of software development, object
 
 ## About Me
 
-I am a second-year Computer Science student who enjoys building practical projects and exploring different areas of software development. Most of my work is focused on Python, where I apply concepts such as object-oriented programming, data structures, and version control through hands-on projects.
+I am a second-year Computer Science student who enjoys building practical projects and exploring different areas of AI/ML. Most of my work is focused on Python, where I apply concepts such as object-oriented programming, data structures, and version control through hands-on projects.
 
 
 
