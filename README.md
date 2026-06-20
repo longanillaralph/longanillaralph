@@ -4,7 +4,7 @@
 
 Computer Science Student • Python Developer
 
-Building projects to strengthen my understanding of software development, object-oriented programming, and backend systems.
+Building projects to strengthen my understanding of Explanatory Data Analysis, Machine learning Models, and backend systems.
 
 </div>
 
